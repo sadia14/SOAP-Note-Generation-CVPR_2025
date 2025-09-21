@@ -1,7 +1,7 @@
 # 🩺 Skin-SOAP: Weakly Supervised Multimodal Framework for Structured SOAP Notes  
 
 ![License](https://img.shields.io/badge/license-MIT-blue)  
-![Status](https://img.shields.io/badge/status-research%20prototype-orange)
+
 
 ## 🌟 Overview  
 **Skin-SOAP** is a weakly supervised multimodal framework for generating structured **SOAP (Subjective, Objective, Assessment, Plan)** notes from limited dermatologic inputs. It integrates lesion images, sparse clinical text, and retrieval-augmented knowledge to produce clinically grounded documentation with minimal manual annotation effort.
