@@ -107,7 +107,7 @@ If you use this work, please cite:
 ## 🔗 Links  
 - [📄 ArXiv Paper](https://arxiv.org/abs/2508.05019v1)  
 - [📊 Slides (Skin-SOAP Presentation)](link to your .pptx in repo)
-- 
+  
 ## Contact
 
 For questions about this code, please open an issue on GitHub or email sadia1402@umbc.edu.
