@@ -40,6 +40,12 @@ Key features:
 - Given a new lesion image and clinical features, generate a structured SOAP note automatically  
 
 ---
+## 🖼️ Framework Pipeline  
+
+Below is the end-to-end Skin-SOAP pipeline, from weakly supervised data generation to fine-tuning and inference:
+
+![Skin-SOAP Pipeline](assets/arch.jpg)
+
 
 ## 📈 Evaluation  
 
